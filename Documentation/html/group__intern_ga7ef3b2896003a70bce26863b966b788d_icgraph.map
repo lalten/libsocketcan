@@ -1,0 +1,11 @@
+<map id="do_set_nl_link" name="do_set_nl_link">
+<area shape="rect" id="node2" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="160,132,227,159"/>
+<area shape="rect" id="node3" href="$group__extern.html#ga0df08d0fdd25560a7c66923e48acda55" title="can_do_start &#45; start the can interface " alt="" coords="295,5,393,32"/>
+<area shape="rect" id="node4" href="$group__extern.html#gaaafc9e9c2de21099a446fc32e91c615c" title="can_do_stop &#45; stop the can interface " alt="" coords="296,56,392,83"/>
+<area shape="rect" id="node5" href="$group__extern.html#gacdaa257a1dce981110d540b52e025b2d" title="can_do_restart &#45; restart the can interface " alt="" coords="290,107,398,133"/>
+<area shape="rect" id="node6" href="$group__extern.html#gaaa709a2e81582dbc7bbc3f35b5c9bb05" title="can_set_restart_ms &#45; set interval of auto restart. " alt="" coords="275,157,413,184"/>
+<area shape="rect" id="node7" href="$group__extern.html#gae089ba74196f286b625652c58673029d" title="can_set_ctrlmode &#45; setup the control mode. " alt="" coords="281,208,407,235"/>
+<area shape="rect" id="node8" href="$group__extern.html#gaa01e52bcb6f4b873da7ce32cab38332d" title="can_set_bittiming &#45; setup the bittiming. " alt="" coords="282,259,406,285"/>
+<area shape="rect" id="node9" href="$group__extern.html#gaf69a4a0d7424e5a61d60991295f50559" title="can_set_bitrate &#45; setup the bitrate. " alt="" coords="501,233,611,260"/>
+<area shape="rect" id="node10" href="$group__extern.html#ga0b9e6fbcb49ce3a95c83da86b3252049" title="can_set_bitrate_samplepoint &#45; setup the bitrate. " alt="" coords="462,284,650,311"/>
+</map>

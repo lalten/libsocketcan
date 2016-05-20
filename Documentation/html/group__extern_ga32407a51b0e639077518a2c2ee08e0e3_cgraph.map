@@ -1,0 +1,6 @@
+<map id="can_get_state" name="can_get_state">
+<area shape="rect" id="node2" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo " alt="" coords="157,31,224,57"/>
+<area shape="rect" id="node3" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="274,5,377,32"/>
+<area shape="rect" id="node4" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo " alt="" coords="273,56,378,83"/>
+<area shape="rect" id="node5" href="$group__intern.html#gac17a86cc1ab28d782f18090082268ee5" title="send_dump_request &#45; send a dump linkinfo request " alt="" coords="427,56,565,83"/>
+</map>

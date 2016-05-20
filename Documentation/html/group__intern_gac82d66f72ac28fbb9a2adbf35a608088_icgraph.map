@@ -1,0 +1,20 @@
+<map id="open_nl_sock" name="open_nl_sock">
+<area shape="rect" id="node2" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo " alt="" coords="157,208,224,235"/>
+<area shape="rect" id="node12" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="157,512,224,539"/>
+<area shape="rect" id="node3" href="$group__extern.html#gaaba5ef4fe39e12a80eb21986536b017a" title="can_get_berr_counter &#45; get the tx/rx error counter. " alt="" coords="280,5,427,32"/>
+<area shape="rect" id="node4" href="$group__extern.html#ga17ad92ba42f74a9e5fe23e9383336e3a" title="can_get_bittiming &#45; get the current bittimnig configuration. " alt="" coords="291,56,415,83"/>
+<area shape="rect" id="node5" href="$group__extern.html#ga13f337fa23c8bd38f97eef7cc5e89f53" title="can_get_bittiming_const &#45; get the current bittimnig constant. " alt="" coords="272,107,435,133"/>
+<area shape="rect" id="node6" href="$group__extern.html#ga955ed24c6c2368a6700072b5e1b96303" title="can_get_clock &#45; get the current clock struct. " alt="" coords="300,157,407,184"/>
+<area shape="rect" id="node7" href="$group__extern.html#gab2869a6e721ae43b34c85e715eb9b855" title="can_get_ctrlmode &#45; get the current control mode. " alt="" coords="291,208,416,235"/>
+<area shape="rect" id="node8" href="$group__extern.html#ga01a45a4ed6cb71e116f197da7281b776" title="can_get_device_stats &#45; get the can_device_stats. " alt="" coords="279,259,428,285"/>
+<area shape="rect" id="node9" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting. " alt="" coords="285,309,422,336"/>
+<area shape="rect" id="node11" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device " alt="" coords="301,360,405,387"/>
+<area shape="rect" id="node10" href="$group__extern.html#gacdaa257a1dce981110d540b52e025b2d" title="can_do_restart &#45; restart the can interface " alt="" coords="523,360,631,387"/>
+<area shape="rect" id="node13" href="$group__extern.html#ga0df08d0fdd25560a7c66923e48acda55" title="can_do_start &#45; start the can interface " alt="" coords="305,461,402,488"/>
+<area shape="rect" id="node14" href="$group__extern.html#gaaafc9e9c2de21099a446fc32e91c615c" title="can_do_stop &#45; stop the can interface " alt="" coords="305,512,401,539"/>
+<area shape="rect" id="node15" href="$group__extern.html#gaaa709a2e81582dbc7bbc3f35b5c9bb05" title="can_set_restart_ms &#45; set interval of auto restart. " alt="" coords="285,563,422,589"/>
+<area shape="rect" id="node16" href="$group__extern.html#gae089ba74196f286b625652c58673029d" title="can_set_ctrlmode &#45; setup the control mode. " alt="" coords="291,613,416,640"/>
+<area shape="rect" id="node17" href="$group__extern.html#gaa01e52bcb6f4b873da7ce32cab38332d" title="can_set_bittiming &#45; setup the bittiming. " alt="" coords="291,664,415,691"/>
+<area shape="rect" id="node18" href="$group__extern.html#gaf69a4a0d7424e5a61d60991295f50559" title="can_set_bitrate &#45; setup the bitrate. " alt="" coords="522,639,633,665"/>
+<area shape="rect" id="node19" href="$group__extern.html#ga0b9e6fbcb49ce3a95c83da86b3252049" title="can_set_bitrate_samplepoint &#45; setup the bitrate. " alt="" coords="483,689,671,716"/>
+</map>

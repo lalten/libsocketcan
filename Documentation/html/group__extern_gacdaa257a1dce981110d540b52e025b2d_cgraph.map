@@ -1,0 +1,11 @@
+<map id="can_do_restart" name="can_do_restart">
+<area shape="rect" id="node2" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting. " alt="" coords="163,5,301,32"/>
+<area shape="rect" id="node7" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device " alt="" coords="180,56,284,83"/>
+<area shape="rect" id="node8" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="199,107,265,133"/>
+<area shape="rect" id="node3" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo " alt="" coords="369,31,436,57"/>
+<area shape="rect" id="node4" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="519,81,622,108"/>
+<area shape="rect" id="node5" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo " alt="" coords="518,31,623,57"/>
+<area shape="rect" id="node6" href="$group__intern.html#gac17a86cc1ab28d782f18090082268ee5" title="send_dump_request &#45; send a dump linkinfo request " alt="" coords="685,31,824,57"/>
+<area shape="rect" id="node9" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo " alt="" coords="350,132,455,159"/>
+<area shape="rect" id="node10" href="$group__intern.html#ga1b91cad86ec363cdab22c7da046f18e3" title="send_mod_request &#45; send a linkinfo modification request " alt="" coords="505,132,637,159"/>
+</map>
