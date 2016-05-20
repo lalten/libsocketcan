@@ -1,0 +1,7 @@
+<map id="can_set_bitrate" name="can_set_bitrate">
+<area shape="rect" id="node2" href="$group__extern.html#gaa01e52bcb6f4b873da7ce32cab38332d" title="can_set_bittiming &#45; setup the bittiming. " alt="" coords="166,31,290,57"/>
+<area shape="rect" id="node3" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="339,31,405,57"/>
+<area shape="rect" id="node4" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="455,5,558,32"/>
+<area shape="rect" id="node5" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo " alt="" coords="454,56,559,83"/>
+<area shape="rect" id="node6" href="$group__intern.html#ga1b91cad86ec363cdab22c7da046f18e3" title="send_mod_request &#45; send a linkinfo modification request " alt="" coords="609,56,741,83"/>
+</map>
