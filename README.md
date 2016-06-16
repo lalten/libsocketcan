@@ -13,6 +13,10 @@ Please refer to the INSTALL file
 
 Documentation:
 -------------------------------------------------------------------------------
-Make sure you have Doxygen installed on your host. If yes simply run:
-make docs
+
+[Online Documentation](https://cdn.rawgit.com/lalten/libsocketcan/master/Documentation/html/group__extern.html)
+
+Offline:  
+Make sure you have Doxygen installed on your host. If yes simply run:  
+`make docs`  
 and look for the API doc in Documentation/html.
