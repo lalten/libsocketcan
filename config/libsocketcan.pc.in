@@ -5,8 +5,6 @@ includedir=@includedir@
 
 Name: libsocketcan
 Description: provides access to socketcan configuration interface
-Requires:
 Version: @VERSION@
 Libs: -L${libdir} -lsocketcan
-#Libs.private: -lm -lpthread ...etc...
 Cflags: -I${includedir}
