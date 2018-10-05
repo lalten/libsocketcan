@@ -3,7 +3,7 @@ exec_prefix=@exec_prefix@
 libdir=@libdir@
 includedir=@includedir@
 
-Name: libsocketcan 
+Name: libsocketcan
 Description: provides access to socketcan configuration interface
 Requires:
 Version: @VERSION@
