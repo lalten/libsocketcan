@@ -9,6 +9,7 @@ var group__extern =
     [ "can_get_clock", "group__extern.html#ga955ed24c6c2368a6700072b5e1b96303", null ],
     [ "can_get_ctrlmode", "group__extern.html#gab2869a6e721ae43b34c85e715eb9b855", null ],
     [ "can_get_device_stats", "group__extern.html#ga01a45a4ed6cb71e116f197da7281b776", null ],
+    [ "can_get_link_stats", "group__extern.html#ga042afbd3091658a7437de6dd100fdd26", null ],
     [ "can_get_restart_ms", "group__extern.html#ga0ed762854eef663c3d5290aa65765db0", null ],
     [ "can_get_state", "group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3", null ],
     [ "can_set_bitrate", "group__extern.html#gaf69a4a0d7424e5a61d60991295f50559", null ],

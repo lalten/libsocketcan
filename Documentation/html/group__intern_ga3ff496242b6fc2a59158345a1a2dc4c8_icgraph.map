@@ -5,7 +5,8 @@
 <area shape="rect" id="node5" href="$group__extern.html#ga955ed24c6c2368a6700072b5e1b96303" title="can_get_clock &#45; get the current clock struct. " alt="" coords="148,157,255,184"/>
 <area shape="rect" id="node6" href="$group__extern.html#gab2869a6e721ae43b34c85e715eb9b855" title="can_get_ctrlmode &#45; get the current control mode. " alt="" coords="139,208,264,235"/>
 <area shape="rect" id="node7" href="$group__extern.html#ga01a45a4ed6cb71e116f197da7281b776" title="can_get_device_stats &#45; get the can_device_stats. " alt="" coords="127,259,276,285"/>
-<area shape="rect" id="node8" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting. " alt="" coords="133,309,270,336"/>
-<area shape="rect" id="node10" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device " alt="" coords="149,360,253,387"/>
-<area shape="rect" id="node9" href="$group__extern.html#gacdaa257a1dce981110d540b52e025b2d" title="can_do_restart &#45; restart the can interface " alt="" coords="331,335,439,361"/>
+<area shape="rect" id="node8" href="$group__extern.html#ga042afbd3091658a7437de6dd100fdd26" title="can_get_link_statistics &#45; get RX/TX statistics (64 bits version) " alt="" coords="136,309,267,336"/>
+<area shape="rect" id="node9" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting. " alt="" coords="133,360,270,387"/>
+<area shape="rect" id="node11" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device " alt="" coords="149,411,253,437"/>
+<area shape="rect" id="node10" href="$group__extern.html#gacdaa257a1dce981110d540b52e025b2d" title="can_do_restart &#45; restart the can interface " alt="" coords="331,385,439,412"/>
 </map>
