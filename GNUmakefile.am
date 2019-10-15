@@ -30,7 +30,7 @@ MAINTAINERCLEANFILES = \
 dist_doc_DATA = \
 	INSTALL \
 	LICENSE \
-	README
+	README.md
 
 maintainer-clean-local:
 	-chmod -R a+rw $(distdir)
