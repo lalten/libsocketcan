@@ -411,7 +411,7 @@ static int do_get_nl_link(int fd, __u8 acquire, const char *name, void *res)
 			struct rtattr *tb[IFLA_MAX + 1];
 
 			len =
-				nl_msg->nlmsg_len - NLMSG_LENGTH(sizeof(struct ifaddrmsg));
+				nl_msg->nlmsg_len - NLMSG_LENGTH(sizeof(struct ifinfomsg));
 			parse_rtattr(tb, IFLA_MAX, IFLA_RTA(ifi), len);
 
 			/* Finish process if the reply message is matched */
