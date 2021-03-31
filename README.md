@@ -14,7 +14,7 @@ Please refer to the INSTALL file
 Documentation:
 -------------------------------------------------------------------------------
 
-[Online Documentation](https://cdn.rawgit.com/lalten/libsocketcan/master/Documentation/html/group__extern.html)
+[Online Documentation](https://lalten.github.io/libsocketcan/Documentation/html/index.html)
 
 Offline:  
 Make sure you have Doxygen installed on your host. If yes simply run:  
