@@ -1,5 +1,6 @@
 <map id="can_do_start" name="can_do_start">
-<area shape="rect" id="node2" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="151,31,217,57"/>
-<area shape="rect" id="node3" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="267,5,369,32"/>
-<area shape="rect" id="node4" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo " alt="" coords="265,56,371,83"/>
+<area shape="rect" id="node1" title="can_do_start &#45; start the can interface" alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo" alt="" coords="159,31,232,57"/>
+<area shape="rect" id="node3" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo" alt="" coords="280,5,395,32"/>
+<area shape="rect" id="node4" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket" alt="" coords="282,56,393,83"/>
 </map>

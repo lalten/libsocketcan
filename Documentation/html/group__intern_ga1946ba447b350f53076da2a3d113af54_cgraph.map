@@ -1,4 +1,5 @@
 <map id="set_link" name="set_link">
-<area shape="rect" id="node2" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo " alt="" coords="120,5,225,32"/>
-<area shape="rect" id="node3" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="121,56,224,83"/>
+<area shape="rect" id="node1" title="set_link &#45; open a netlink socket and setup linkinfo" alt="" coords="5,31,79,57"/>
+<area shape="rect" id="node2" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo" alt="" coords="127,5,241,32"/>
+<area shape="rect" id="node3" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket" alt="" coords="129,56,239,83"/>
 </map>

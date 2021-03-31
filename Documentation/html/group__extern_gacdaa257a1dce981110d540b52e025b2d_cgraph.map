@@ -1,9 +1,10 @@
 <map id="can_do_restart" name="can_do_restart">
-<area shape="rect" id="node2" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting. " alt="" coords="161,5,299,32"/>
-<area shape="rect" id="node6" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device " alt="" coords="178,56,282,83"/>
-<area shape="rect" id="node7" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo " alt="" coords="197,107,263,133"/>
-<area shape="rect" id="node3" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo " alt="" coords="366,31,433,57"/>
-<area shape="rect" id="node4" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="501,81,604,108"/>
-<area shape="rect" id="node5" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo " alt="" coords="500,31,605,57"/>
-<area shape="rect" id="node8" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo " alt="" coords="347,132,452,159"/>
+<area shape="rect" id="node1" title="can_do_restart &#45; restart the can interface" alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$group__extern.html#ga0ed762854eef663c3d5290aa65765db0" title="can_get_restart_ms &#45; get the current interval of auto restarting." alt="" coords="172,5,323,32"/>
+<area shape="rect" id="node6" href="$group__extern.html#ga32407a51b0e639077518a2c2ee08e0e3" title="can_get_state &#45; get the current state of the device" alt="" coords="191,56,304,83"/>
+<area shape="rect" id="node7" href="$group__intern.html#ga1946ba447b350f53076da2a3d113af54" title="set_link &#45; open a netlink socket and setup linkinfo" alt="" coords="211,107,284,133"/>
+<area shape="rect" id="node3" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo" alt="" coords="391,31,465,57"/>
+<area shape="rect" id="node4" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo" alt="" coords="533,31,649,57"/>
+<area shape="rect" id="node5" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket" alt="" coords="536,81,647,108"/>
+<area shape="rect" id="node8" href="$group__intern.html#ga7ef3b2896003a70bce26863b966b788d" title="do_set_nl_link &#45; setup linkinfo" alt="" coords="371,132,485,159"/>
 </map>

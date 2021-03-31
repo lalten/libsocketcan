@@ -1,5 +1,6 @@
 <map id="can_get_bittiming" name="can_get_bittiming">
-<area shape="rect" id="node2" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo " alt="" coords="177,31,244,57"/>
-<area shape="rect" id="node3" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket " alt="" coords="293,5,396,32"/>
-<area shape="rect" id="node4" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo " alt="" coords="292,56,397,83"/>
+<area shape="rect" id="node1" title="can_get_bittiming &#45; get the current bittimnig configuration." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$group__intern.html#ga3ff496242b6fc2a59158345a1a2dc4c8" title="get_link &#45; get linkinfo" alt="" coords="192,31,267,57"/>
+<area shape="rect" id="node3" href="$group__intern.html#gaba8e592ddb074f5d1e64bbcfa235b422" title="do_get_nl_link &#45; get linkinfo" alt="" coords="315,5,431,32"/>
+<area shape="rect" id="node4" href="$group__intern.html#gac82d66f72ac28fbb9a2adbf35a608088" title="open_nl_sock &#45; open a netlink socket" alt="" coords="317,56,428,83"/>
 </map>
